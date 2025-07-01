@@ -8,7 +8,7 @@
 - ♟️ Quiet, detail-oriented, and a strategic thinker — even at the chessboard
 - 🤝 I value collaboration and seek a team where I can **grow and contribute**
 
-## 🛠 Tech Stack I Work With
+## 🛠 Some of the Technologies I Use
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,cs,dotnet,php,laravel,mysql,git,linux)](https://skillicons.dev)
 
