@@ -8,11 +8,9 @@
 - ♟️ Quiet, detail-oriented and a strategic thinker — even at the chessboard
 - 🤝 I value collaboration and seek a team where I can **grow and contribute**
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack I Work With
 
-- Frontend: HTML, CSS, JavaScript, TypeScript, React, Vue.js
-- Backend: PHP (Laravel), C# (.NET Core), SQL, MySQL, Microsoft SQL Server
-- Tools: Git
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,cs,dotnet,php,laravel,git,linux,vite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
